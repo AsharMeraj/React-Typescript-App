@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media (max-height: 880px) {
+  .height{
+    font-size: 2rem;
+  }
+}
+
+.GridSetKaro{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(10rem, 22rem));
+  justify-content: center;
+  gap: 4rem;
+}
