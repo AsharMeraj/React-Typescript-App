@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/React-Typescript-App/static/css/main.84794989.css",
-    "main.js": "/React-Typescript-App/static/js/main.beba1610.js",
+    "main.js": "/React-Typescript-App/static/js/main.66e0163d.js",
     "static/js/787.ab576830.chunk.js": "/React-Typescript-App/static/js/787.ab576830.chunk.js",
     "static/media/servicesImage2.webp": "/React-Typescript-App/static/media/servicesImage2.d881b0fd380a5fb097f3.webp",
     "static/media/servicesImage3.webp": "/React-Typescript-App/static/media/servicesImage3.36770617a07522ac70aa.webp",
     "static/media/servicesImage1.webp": "/React-Typescript-App/static/media/servicesImage1.bf1376fd04d7eda9e677.webp",
     "index.html": "/React-Typescript-App/index.html",
     "main.84794989.css.map": "/React-Typescript-App/static/css/main.84794989.css.map",
-    "main.beba1610.js.map": "/React-Typescript-App/static/js/main.beba1610.js.map",
+    "main.66e0163d.js.map": "/React-Typescript-App/static/js/main.66e0163d.js.map",
     "787.ab576830.chunk.js.map": "/React-Typescript-App/static/js/787.ab576830.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.84794989.css",
-    "static/js/main.beba1610.js"
+    "static/js/main.66e0163d.js"
   ]
 }
